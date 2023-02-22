@@ -1,0 +1,6 @@
+BMP180
+DHT22
+RTC DS3231
+SD adapter
+LCD+I2C
+arduino nano/uno
